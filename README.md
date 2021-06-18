@@ -3,7 +3,7 @@
 In this demo application, list of puppies with their image, details and description is displayed using custom tableview cell. App is created programmatically as well as using storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5
